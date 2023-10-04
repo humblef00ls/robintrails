@@ -45,7 +45,7 @@
 		"firebase-functions-test": "0.2.1",
 		"firebase-tools": "^8.4.3",
 		"npm-run-all": "4.1.5",
-		"postcss": "7.0.32",
+		"postcss": "8.4.31",
 		"postcss-import": "12.0.1",
 		"postcss-load-config": "2.1.0",
 		"postcss-url": "8.0.0",
